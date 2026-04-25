@@ -10,7 +10,7 @@ const Header = () => {
     return (
         <>
             <div className='headerWrapper bg-[#FAFAFA] py-4'>
-                <header className='py-3 border-b border-[rgba(0,0,0,0.1)]'>
+                <header className='border-b border-[rgba(0,0,0,0.1)]'>
                     <div className='container flex items-center justify-between'>
                         <div className='logo'>
                             <Link href={"/"}>

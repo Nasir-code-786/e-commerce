@@ -41,12 +41,12 @@
   font-weight: 600 !important;
 }
 
-.MuiTabs-list .Mui-selected {
+.MuiTab-root.Mui-selected {
   @apply !text-primary;
 }
 
 .MuiTabs-indicator {
-  background-color: #ee721c !important;
+  @apply !bg-primary;
 }
 
 .btn-border-o{

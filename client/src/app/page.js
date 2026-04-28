@@ -7,7 +7,7 @@ import ProductsRow from "@/components/ProductRow";
 export default function Home() {
   return (
     <>
-      <div className="sliderWrapper bg-[#f1f1f1] py-5">
+      <div className="sliderWrapper bg-[#f1f1f1] py-5 pb-0">
         <HomeSlider />
         <CatSlider />
         <PopularProducts />

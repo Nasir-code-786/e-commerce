@@ -1,3 +1,4 @@
+"use client";
 import { Button } from "@mui/material";
 import Link from "next/link";
 import React from "react";
@@ -233,30 +234,28 @@ const Footer = () => {
           </div>
 
           {/* Column 3 */}
+
           <div className="col3 w-full lg:w-[40%] pl-0 lg:pl-10">
             <h3 className="text-[20px] font-semibold">
               Subscribe to newsletter
             </h3>
+
             <p className="text-[15px] font-semibold text-gray-600 hover:text-primary mt-5">
               Subscribe to our latest newsletter to get news about Special
               discounts.
             </p>
+
             <form className="flex flex-col gap-5 w-full mt-5">
               <div className="relative group w-full">
-                <MdEmail
-                  className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-lg 
-               transition-colors duration-200 group-hover:text-primary"
-                />
+                <MdEmail className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-lg transition-colors duration-200 group-hover:text-primary" />
 
                 <input
                   type="email"
                   placeholder="Your Email Address"
-                  className="w-full h-11 bg-white border border-gray-300 rounded-md 
-               pl-10 pr-4 text-sm outline-none transition-all duration-200
-               focus:border-primary focus:ring-2 focus:ring-primary/20
-               placeholder:text-gray-400 shadow-sm"
+                  className="w-full h-11 bg-white border border-gray-300 rounded-md pl-10 pr-4 text-sm outline-none transition-all duration-200 focus:border-primary focus:ring-2 focus:ring-primary/20 placeholder:text-gray-400 shadow-sm"
                 />
               </div>
+
               <div>
                 <Button className="btn-border-o">Subscribe</Button>
               </div>

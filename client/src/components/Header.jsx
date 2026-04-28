@@ -11,7 +11,7 @@ import Nav from "./Nav";
 
 const Header = () => {
   return (
-    <div className="headerWrapper bg-[#FAFAFA]">
+    <div className="headerWrapper sticky top-0 z-50 bg-white">
       <header className="border-b border-[rgba(0,0,0,0.1)] py-3">
         <div className="container flex items-center justify-between h-14">
           <div className="logo flex items-center">

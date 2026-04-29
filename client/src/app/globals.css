@@ -63,3 +63,33 @@
 .hr{
   border-color: rgba(0, 0, 0, 0.1) !important;
 }
+
+.MuiFormGroup-root .MuiTypography-root{
+  font-size: 14px !important;
+}
+
+.MuiFormGroup-root .Mui-checked .MuiSvgIcon-root{
+  fill : #ee721c !important
+}
+
+.range-slider{
+  height: 5px !important;
+}
+
+.range-slider .range-slider__thumb, .range-slider .range-slider__range{
+  @apply !bg-primary
+}
+
+.range-slider .range-slider__thumb{
+  width: 17px !important;
+  height: 17px !important;
+}
+
+.MuiList-root li{
+  font-size: 14px !important;
+}
+
+.MuiPaginationItem-circular.Mui-selected{
+  background-color: #ee721c !important;
+  color: white !important;
+}

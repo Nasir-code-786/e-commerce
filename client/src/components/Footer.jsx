@@ -26,7 +26,7 @@ const Footer = () => {
       <div className="container">
         <div className="flex items-center justify-center gap-2 py-3 lg:py-8 pb-0 lg:pb-8 px-0 lg:px-5">
           <div className="col flex items-center justify-center flex-col group w-[15%]">
-            <FaShippingFast className="text-[40px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
+            <FaShippingFast className="text-[35px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
             <h3 className="text-[16px] font-semibold mt-3">Free Shipping</h3>
             <p className="text-[13px] font-medium text-gray-700">
               For all Orders Over $100
@@ -34,7 +34,7 @@ const Footer = () => {
           </div>
 
           <div className="col flex items-center justify-center flex-col group w-[15%]">
-            <FaUndoAlt className="text-[40px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
+            <FaUndoAlt className="text-[35px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
             <h3 className="text-[16px] font-semibold mt-3">30 Days Return</h3>
             <p className="text-[13px] font-medium text-gray-700">
               For an Exchange Product
@@ -42,7 +42,7 @@ const Footer = () => {
           </div>
 
           <div className="col flex items-center justify-center flex-col group w-[15%]">
-            <FaLock className="text-[40px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
+            <FaLock className="text-[35px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
             <h3 className="text-[16px] font-semibold mt-3">Secured Payment</h3>
             <p className="text-[13px] font-medium text-gray-700">
               Payment Cards Accepted
@@ -50,7 +50,7 @@ const Footer = () => {
           </div>
 
           <div className="col flex items-center justify-center flex-col group w-[15%]">
-            <FaGift className="text-[40px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
+            <FaGift className="text-[35px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
             <h3 className="text-[16px] font-semibold mt-3">Special Gifts</h3>
             <p className="text-[13px] font-medium text-gray-700">
               Our First Product Order
@@ -58,7 +58,7 @@ const Footer = () => {
           </div>
 
           <div className="col flex items-center justify-center flex-col group w-[15%]">
-            <FaHeadset className="text-[40px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
+            <FaHeadset className="text-[35px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
             <h3 className="text-[16px] font-semibold mt-3">Support 24/7</h3>
             <p className="text-[13px] font-medium text-gray-700">
               Contact Us Anytime
@@ -66,7 +66,7 @@ const Footer = () => {
           </div>
 
           <div className="col flex items-center justify-center flex-col group w-[15%]">
-            <FaMoneyBillWave className="text-[40px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
+            <FaMoneyBillWave className="text-[35px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
             <h3 className="text-[16px] font-semibold mt-3">Money Guarantee</h3>
             <p className="text-[13px] font-medium text-gray-700">
               30 Days Money Back
@@ -74,7 +74,7 @@ const Footer = () => {
           </div>
 
           <div className="col flex items-center justify-center flex-col group w-[15%]">
-            <FaCheckCircle className="text-[40px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
+            <FaCheckCircle className="text-[35px] transition-all duration-300 group-hover:text-primary group-hover:transition-y-1" />
             <h3 className="text-[16px] font-semibold mt-3">
               Quality Assurance
             </h3>

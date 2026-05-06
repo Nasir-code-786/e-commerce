@@ -18,7 +18,7 @@ export const CatSlider = () => {
           className="mySwiper"
         >
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -29,7 +29,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -40,7 +40,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -51,7 +51,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -62,7 +62,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -73,7 +73,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -84,7 +84,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -95,7 +95,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -106,7 +106,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>
@@ -117,7 +117,7 @@ export const CatSlider = () => {
           </SwiperSlide>
 
           <SwiperSlide>
-            <Link href={"/"} className="group">
+            <Link href={"/products"} className="group">
               <div className="bg-white p-3 w-full h-27.5 rounded-md shadow-md flex items-center justify-center transition group-hover:bg-gray-100">
                 <img src="/cat1.png" alt="category" className="group-hover:scale-105"></img>
               </div>

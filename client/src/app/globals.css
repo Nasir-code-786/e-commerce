@@ -60,6 +60,13 @@
   color: #fff !important;
 }
 
+.btn-o{
+  border: 1px solid #ee721c !important;
+  font-weight: 600 !important;
+  background: #ee721c !important;
+  color: #fff !important;
+}
+
 .hr{
   border-color: rgba(0, 0, 0, 0.1) !important;
 }
@@ -92,4 +99,14 @@
 .MuiPaginationItem-circular.Mui-selected{
   background-color: #ee721c !important;
   color: white !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
 }

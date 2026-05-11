@@ -49,6 +49,13 @@
   @apply !bg-primary;
 }
 
+.btn-o{
+  border: 1px solid #ee721c !important;
+  font-weight: 600 !important;
+  background: #ee721c !important;
+  color: #fff !important;
+}
+
 .btn-border-o{
   border: 1px solid #ee721c !important;
   font-weight: 600 !important;
@@ -56,13 +63,6 @@
 }
 
 .btn-border-o:hover{
-  background: #ee721c !important;
-  color: #fff !important;
-}
-
-.btn-o{
-  border: 1px solid #ee721c !important;
-  font-weight: 600 !important;
   background: #ee721c !important;
   color: #fff !important;
 }
@@ -109,4 +109,13 @@ input::-webkit-inner-spin-button {
 
 input[type=number] {
   -moz-appearance: textfield;
+}
+
+#qtyDrop .MuiList-root{
+  max-height: 250px;
+  overflow-y: scroll !important;
+}
+
+#qtyDrop .MuiList-root::-webkit-scrollbar-thumb{
+  background: #ccc !important;
 }
